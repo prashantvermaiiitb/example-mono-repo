@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo test to be defined in API module.",
-    "start" : "node index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
