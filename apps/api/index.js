@@ -1,5 +1,5 @@
 const express = require('express');
-const logger = require('@my-project/logger');
+const logger = require('@prashantvermaiiitb/logger');
 
 const PORT = process.env.PORT || 8080;
 const app = express();

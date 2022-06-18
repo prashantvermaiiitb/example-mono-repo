@@ -1,9 +1,9 @@
 {
-  "name": "@my-project/frontend",
+  "name": "@prashantvermaiiitb/frontend",
   "version": "1.0.10",
   "proxy": "http://localhost:8080",
   "dependencies": {
-    "@my-project/validator": "^1.0.10",
+    "@prashantvermaiiitb/validator": "^1.0.10",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
@@ -41,5 +41,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "75ac9595783f9fd84a888b090124f590a91a5942"
+  "gitHead": "de1b39b0007d74244d3722cda4bb20c749463199"
 }

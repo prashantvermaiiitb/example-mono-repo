@@ -1,6 +1,6 @@
 {
-  "name": "@my-project/validator",
-  "version": "1.0.10",
+  "name": "@prashantvermaiiitb/validator",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,10 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "75ac9595783f9fd84a888b090124f590a91a5942",
-  "publishConfig": {
-    "access": "public",
-    "tag": "sample-validator-code",
-    "registry": "https://registry.npmjs.com"
-  }
+  "gitHead": "de1b39b0007d74244d3722cda4bb20c749463199"
 }

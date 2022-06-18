@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import { isNullOrWhitespace } from '@my-project/validator';
+import { isNullOrWhitespace } from '@prashantvermaiiitb/validator';
 
 class Greeting extends Component {
     state = { name: '' }
