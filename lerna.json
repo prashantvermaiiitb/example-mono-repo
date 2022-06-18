@@ -4,8 +4,5 @@
     "apps/*"
   ],
   "useNx": false,
-  "version": "1.0.2",
-  "publishConfig": {
-    "access": "public"
-  }
+  "version": "1.0.2"
 }
