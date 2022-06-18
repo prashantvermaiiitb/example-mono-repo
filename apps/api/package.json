@@ -1,6 +1,6 @@
 {
   "name": "@prashantvermaiiitb/api",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@prashantvermaiiitb/logger": "^1.0.11",
+    "@prashantvermaiiitb/logger": "^1.0.12",
     "express": "^4.18.1"
   },
   "gitHead": "a6272162b060ab057ed553a11d5fee38f63e92f1",
