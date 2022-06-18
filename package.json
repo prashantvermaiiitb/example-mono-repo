@@ -6,7 +6,7 @@
   "scripts": {
     "test": "lerna run test",
     "test-specific": "lerna run test --scope=$scope",
-    "diff": "lerna run diff",
+    "diff": "lerna diff",
     "start": "lerna run start",
     "clean": "npx lerna clean -y",
     "hoist": "npx lerna bootstrap --hoist",

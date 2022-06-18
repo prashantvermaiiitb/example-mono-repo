@@ -14,7 +14,7 @@
     "@my-project/logger": "^1.0.5",
     "express": "^4.18.1"
   },
-  "gitHead": "9fdc684a480b2bcda15c209aa68a45967f6be939",
+  "gitHead": "18fd39b4a8cd11bc9e631d4414dce02c3cb62bd8",
   "publishConfig": {
     "access": "public",
     "tag": "api-service"
