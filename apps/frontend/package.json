@@ -1,10 +1,10 @@
 {
   "name": "@my-project/frontend",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": true,
   "proxy": "http://localhost:8080",
   "dependencies": {
-    "@my-project/validator": "^1.0.2",
+    "@my-project/validator": "^1.0.3",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
