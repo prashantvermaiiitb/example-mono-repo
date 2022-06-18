@@ -1,6 +1,6 @@
 {
   "name": "@my-project/api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@my-project/logger": "^1.0.0",
+    "@my-project/logger": "^1.0.1",
     "express": "^4.18.1"
   },
   "gitHead": "dbca2d85cdc4bde6b902706cf8beeefed2f3ad01"
