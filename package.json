@@ -1,0 +1,15 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^5.1.4"
+  },
+  "scripts": {
+    "test": "lerna run test",
+    "test-specific": "lerna run test --scope=$scope",
+    "diff": "lerna run diff",
+    "start": "lerna run start",
+    "clean": "npx lerna clean -y",
+    "hoist": "npx lerna bootstrap --hoist" 
+  }
+}

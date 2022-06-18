@@ -1,0 +1,12 @@
+{
+  "name": "@my-project/logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Running test for logger."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
