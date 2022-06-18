@@ -9,9 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "838bf799655fbefab5ec7e51674c068449dd416a",
+  "gitHead": "75ac9595783f9fd84a888b090124f590a91a5942",
   "publishConfig": {
     "access": "public",
-    "tag": "sample-validator-code"
+    "tag": "sample-validator-code",
+    "registry": "https://registry.npmjs.com"
   }
 }
