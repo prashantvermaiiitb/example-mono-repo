@@ -7,7 +7,7 @@ const app = express();
 app.get('/greeting', (req, res) => {
     logger.info('/greeting was called');
     res.send({
-        message: `Hello, ${req.query.name || 'World'}`
+        message: `Hello, ${req.query.name || 'World'} from server.`
     })
 });
 
