@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "18fd39b4a8cd11bc9e631d4414dce02c3cb62bd8"
+  "gitHead": "28d0d9f058027758246eb8d1abb6095dce3d83e4",
+  "publishConfig": {
+    "access": "public",
+    "tag": "sample-validator-code"
+  }
 }
