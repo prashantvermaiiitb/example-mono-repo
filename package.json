@@ -10,6 +10,7 @@
     "diff": "lerna run diff",
     "start": "lerna run start",
     "clean": "npx lerna clean -y",
-    "hoist": "npx lerna bootstrap --hoist" 
+    "hoist": "npx lerna bootstrap --hoist",
+    "new-version":"lerna version --conventional-commits --yes"
   }
 }
